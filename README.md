@@ -1,6 +1,6 @@
 # Create a Customer Segmentation Report for Arvato Financial Solutions
 
-There is a blog post for this project hosted in [Medium](https://medium.com/@lawrence.sumera/creating-a-customer-segmentation-report-for-arvato-financial-solutions-fda19be519f).
+There is a blog post for this project hosted in [Medium]().
 
 ## Table of Contents:
 
